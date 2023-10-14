@@ -1,7 +1,7 @@
 # Feature_Encoding_Scaling
 ## Ex:05 Feature Generation
 ## AIM
-To read the given data and perform Feature Generation process and save the data to a file.
+To read the given data and perform Feature Generation process and save the data to a file. 
 
 ## Explanation
 Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target.
